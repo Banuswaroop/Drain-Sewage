@@ -31,6 +31,4 @@ Start → Sensors detect blockage → Robot enters drain → Camera streams live
    → AI Controller aligns robot → Robotic arms collect waste
    → Movable belt transfers waste outside → Drain is cleared → End
 
----
-
 💡 *This project is aimed at eliminating manual scavenging and promoting safe, automated sewage cleaning solutions.*
