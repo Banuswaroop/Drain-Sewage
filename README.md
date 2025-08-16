@@ -24,6 +24,13 @@ To design and develop an **AI-powered robotic system** that can detect, monitor,
 - Multi-robot coordination for larger drainage systems
 - IoT-based monitoring dashboards
 
+## 🧠 Workflow (Robotic Cleaning Pipeline)
+
+```text
+Start → Sensors detect blockage → Robot enters drain → Camera streams live feed
+   → AI Controller aligns robot → Robotic arms collect waste
+   → Movable belt transfers waste outside → Drain is cleared → End
+
 ---
 
 💡 *This project is aimed at eliminating manual scavenging and promoting safe, automated sewage cleaning solutions.*
