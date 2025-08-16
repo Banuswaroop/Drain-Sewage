@@ -1,0 +1,11 @@
+# Methodology
+
+1. Sensors are placed in drainage pipes to detect blockages.
+2. Once blockage is detected, the robot is deployed inside.
+3. The camera provides live feedback for navigation and monitoring.
+4. AI fuzzy controller ensures the robot remains stable in the middle of the drain.
+5. Robotic arms collect and place the waste into a container.
+6. Movable belt system disposes of collected waste outside the drain.
+7. Robot resets and continues inspection.
+
+This reduces overflow issues and prevents blockages in sewage systems.
