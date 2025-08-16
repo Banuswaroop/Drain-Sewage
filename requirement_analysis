@@ -1,0 +1,14 @@
+# Requirement Analysis
+
+## Hardware
+- Sensors (Ultrasonic / Infrared for blockage detection)
+- Camera module
+- Robotic arms
+- Motor + battery system
+- Movable belt with container
+- Robot frame with waterproofing
+
+## Software
+- Arduino IDE (motor/sensor control)
+- Python (AI control, image processing, fuzzy logic)
+- PC Controller (optional remote operation)
